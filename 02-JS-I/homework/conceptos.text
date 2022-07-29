@@ -1,0 +1,5 @@
+Variables: es como un espacio en la memoria, la cual guardas con un nombre y le asignas un valor, para poder usarlo en operaciones.
+String: es una cadena de texto, o caracteres que seran interoretado como texto.
+Funciones: es un operacion que se crea con la finalidad ,que al  darle ciertos parametros , ejecute una tarea asignada mediante un bloque de codigos, cada vez que se invoque.
+Declaracion: el if ,  Se usa para evaluar una condicion que segun sean ciertas o falsas ejecute una funcion asignada u otra accion.
+Valores Booleanos: son valores que responden al uso de la logica, cierto o falso.
